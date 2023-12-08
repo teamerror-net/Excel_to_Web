@@ -1,7 +1,6 @@
 
-
-
 Before run this script Make Sure - 
 
->> MongoDB is install on your Local computer.
->> All required module are install
+>> Python is install
+>> MongoDB is install and
+>> All required module are install on your Local computer
